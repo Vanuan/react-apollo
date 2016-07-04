@@ -1,5 +1,5 @@
 {
-  "name": "react-apollo",
+  "name": "vanuan-react-apollo",
   "version": "0.3.12",
   "description": "React data container for Apollo Client",
   "main": "index.js",
