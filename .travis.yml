@@ -33,5 +33,5 @@ deploy:
   on:
     tags: true
     node: '4'
-    repo: apollostack/react-apollo
+    repo: Vanuan/react-apollo
     branch: master
